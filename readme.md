@@ -39,9 +39,9 @@ Atualmente, trabalho no time de sustentação
 
 ### 📊 Estatísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=i4nzz&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IanB1tencourt&show_icons=true&theme=tokyonight" alt="stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i4nzz&layout=compact&theme=tokyonight" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanB1tencourt&layout=compact&theme=tokyonight" alt="langs"/>
 </p>
 
 ---
